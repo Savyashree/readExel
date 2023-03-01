@@ -1,0 +1,11 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@grapecity/spread-excelio": "^16.0.4",
+    "@grapecity/spread-sheets": "^16.0.4",
+    "jquery": "^3.6.3",
+    "xlsx": "^0.18.5"
+  }
+}
